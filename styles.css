@@ -39,7 +39,7 @@ body {
 
 .nombre {
     font-size: 2.5em;
-    color: #2c3e50;
+    color: #b006e4;
     margin-bottom: 10px;
 }
 
@@ -125,7 +125,7 @@ body {
 
 .skill {
     background-color: #3498db;
-    color: white;
+    color: rgb(201, 234, 34);
     padding: 8px 15px;
     border-radius: 20px;
     font-size: 0.9em;
